@@ -1,1 +1,1 @@
-# COM-504_2020A1R170
+It is a desktop application which is used to set reminders in real-time and can provide reminders on desktop screens as well as on the user’s mail. It was developed in python and the backend was developed with SQL.
